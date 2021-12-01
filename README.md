@@ -11,3 +11,4 @@ In order to see this I:
 - Modeled findings with visuals.
 
 All of the code and commentary is contained in the SwiftSongAnalysis.ipynb file
+Python is the only language used
