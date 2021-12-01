@@ -9,3 +9,5 @@ In order to see this I:
 - Ran several functions to gather information on the lyrics of the songs.
 - Performed statistical tests to test for correlation.
 - Modeled findings with visuals.
+
+All of the code and commentary is contained in the SwiftSongAnalysis.ipynb file
